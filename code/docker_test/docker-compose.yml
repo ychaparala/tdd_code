@@ -1,12 +1,18 @@
 version: "3"
 services:
-  roll20:
-    image: ra/roll20:latest
+
+  worker:
+    image: user1/roll20:latest
     deploy:
-      replicas: 5
+      mode: replicated
+      replicas: 10
+      labels: [APP=KILL_THE_GRUE]
       resources:
-        limits:
-          cpus: "0.1"
-          memory: 50M
+          limits:
+              cpus: "0.1"
+              memory: 20M
       restart_policy:
         condition: on-failure
+        delay: 10s
+        max_attempts: 3
+        window: 120s
