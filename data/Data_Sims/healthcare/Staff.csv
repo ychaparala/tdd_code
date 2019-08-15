@@ -1,0 +1,51 @@
+"StaffID","FirstName","LastName","Gender","HireDate","HourlyRate","Salary","PayType","StaffType","StaffReportsTo"
+1,"Gary","Graney","male",2006-08-04,,103953,"Salary","Clinic Manager",
+2,"Lois","Caulkins","female",2011-04-22,,104765,"Salary","Clinic Manager",
+3,"James","Espinosa","male",2008-12-30,,1,"Salary","Nurse",7
+4,"Joshua","Lucas","male",2011-10-06,,999999,"Salary","Physician Assistant",40
+5,"Melvin","McKinley","male",2012-04-24,,78701,"Salary","Nurse",40
+6,"Joan","Mullins","female",2012-12-25,,76087,"Salary","Nurse",35
+7,"David","Mungo","male",2005-01-27,,259233,"Salary","Physician",1
+8,"Kyle","Delacruz","male",2010-04-21,,69622,"Salary","Physician Assistant",10
+9,"Opal","Keegan","female",2010-02-03,,55912,"Salary","Nurse",44
+10,"Frances","Unruh","female",2008-07-19,,56459,"Salary","Physician",2
+11,"Molly","Keyes","female",2009-02-28,15,,"Hourly","Nurse",35
+12,"Juliann","Williams","female",2013-03-07,,85026,"Salary","Nurse",44
+13,"Morris","Simmons","male",2013-03-24,15,,"Hourly","Nurse",40
+14,"Trina","Presler","female",2010-12-11,17,,"Hourly","Nurse",35
+15,"Brian","Lee","male",2002-07-20,16,,"Hourly","Nurse",44
+16,"Max","Gallaher","male",2010-07-11,,34242,"Salary","Nurse",46
+17,"Paulette","Wynkoop","female",2013-11-30,15,,"Hourly","Nurse",7
+18,"Wanda","Martin","female",2006-07-08,15,,"Hourly","Nurse",40
+19,"Myrtle","Erby","female",2008-05-13,14,,"Hourly","Nurse",7
+20,"Gregory","Moore","male",2012-04-13,15,,"Hourly","Nurse",44
+21,"Ralph","Milliron","male",2008-10-31,,71395,"Salary","Physician Assistant",35
+22,"William","Bradley","male",2010-10-09,15,,"Hourly","Nurse",10
+23,"Herman","Mehaffey","male",2011-06-04,,53156,"Salary","Nurse",35
+24,"Michael","Rushing","male",2013-01-10,,38900,"Salary","Nurse",10
+25,"Harry","McClellan","male",2011-05-18,14,,"Hourly","Nurse",44
+26,"Kathryn","Johnson","female",2006-02-20,,50050,"Salary","Nurse",10
+27,"Ola","Cain","female",2014-05-04,14,,"Hourly","Nurse",10
+28,"Anna","Slaton","female",2004-05-14,15,,"Hourly","Nurse",7
+29,"Valencia","Stewart","female",2009-05-31,15,,"Hourly","Nurse",35
+30,"Mark","Carman","male",2014-05-22,,65656,"Salary","Nurse",10
+31,"Vesta","Jenkins","female",2009-01-05,16,,"Hourly","Nurse",44
+32,"Elizabeth","Schell","female",2012-09-09,,60883,"Salary","Nurse",10
+33,"Ben","Maynard","male",2003-11-11,,94214,"Salary","Nurse",44
+34,"Maureen","Hunt","female",2008-02-26,,83964,"Salary","Nurse",7
+35,"Steven","Bechtel","male",2007-05-30,,161728,"Salary","Physician",1
+36,"Kenneth","Walter","male",2010-07-25,,66257,"Salary","Nurse",46
+37,"Lisa","Willis","female",2008-04-29,20,,"Hourly","Physician Assistant",35
+38,"Helen","Leal","female",2009-07-13,16,,"Hourly","Nurse",35
+39,"Todd","William","male",2013-06-10,,64662,"Salary","Nurse",46
+40,"Josie","Leon","female",2009-10-03,,56200,"Salary","Physician",2
+41,"Patricia","Lee","female",2009-06-19,16,,"Hourly","Physician Assistant",10
+42,"Willie","Wilson","male",2011-09-10,19,,"Hourly","Physician Assistant",46
+43,"Lewis","Maxwell","male",2011-01-04,,29984,"Salary","Nurse",10
+44,"Franklin","Alvarez","male",2010-09-02,,121682,"Salary","Physician",1
+45,"Valerie","Few","female",2000-03-26,15,,"Hourly","Nurse",44
+46,"Elsa","Taylor","female",2007-09-30,,99169,"Salary","Physician",2
+47,"Sandra","Nguyen","female",2013-05-13,,68329,"Salary","Physician Assistant",40
+48,"Gloria","Rich","female",2009-05-24,,67171,"Salary","Physician Assistant",7
+49,"Jorge","Humphrey","male",2010-06-21,14,,"Hourly","Nurse",44
+50,"Holly","Jennings","female",2013-11-28,13,,"Hourly","Nurse",7
