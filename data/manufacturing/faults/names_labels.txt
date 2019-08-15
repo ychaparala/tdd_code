@@ -1,0 +1,8 @@
+ID
+Pastry
+Z_Scratch
+K_Scatch
+Stains
+Dirtiness
+Bumps
+Other_Faults
