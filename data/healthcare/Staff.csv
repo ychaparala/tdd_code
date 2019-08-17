@@ -1,0 +1,51 @@
+"StaffID","FirstName","LastName","HireDate","HourlyRate","Salary","PayType","StaffType","StaffReportsTo"
+1,"Max","Sears",2012-09-12,,92980,"Salary","Clinic Manager",
+2,"Carlos","Shrader",2012-03-20,,119234,"Salary","Clinic Manager",
+3,"Benjamin","Fiore",1996-04-03,14,,"Hourly","Nurse",36
+4,"Esther","Dunn",2011-11-17,,1,"Salary","Nurse",30
+5,"Allison","Behrens",2009-11-25,,999999,"Salary","Nurse",10
+6,"Yolanda","Yazzie",2010-10-02,14,,"Hourly","Nurse",27
+7,"Richard","Coffman",2007-10-09,,58045,"Salary","Nurse",18
+8,"Catherine","Butler",2007-03-04,,89703,"Salary","Nurse",33
+9,"Mattie","Sinclair",2012-06-24,20,,"Hourly","Physician Assistant",12
+10,"Charles","Trim",2004-01-31,,143604,"Salary","Physician",2
+11,"Nicholas","McGregor",2010-10-11,,145973,"Salary","Physician",2
+12,"John","Weight",2010-07-03,,173743,"Salary","Physician",1
+13,"Ivonne","Simon",2013-06-30,,155143,"Salary","Physician",1
+14,"Kyong","Ma",2012-06-09,,48583,"Salary","Nurse",43
+15,"Thomas","Sorensen",2011-11-20,15,,"Hourly","Nurse",13
+16,"Lillian","Noel",2006-05-08,,55731,"Salary","Nurse",21
+17,"Jeffry","Smith",2012-10-30,14,,"Hourly","Nurse",13
+18,"Yvonne","Maki",2012-11-12,,92088,"Salary","Physician",2
+19,"Mary","Gullickson",2011-11-11,17,,"Hourly","Nurse",41
+20,"Buddy","Dabrowski",2002-09-14,13,,"Hourly","Nurse",18
+21,"Alan","Kelley",2013-10-23,,163465,"Salary","Physician",2
+22,"Janet","Buller",2012-03-17,17,,"Hourly","Physician Assistant",30
+23,"Hubert","Slater",2002-10-08,,58406,"Salary","Nurse",10
+24,"Eleanor","Ratcliff",2007-10-05,13,,"Hourly","Nurse",21
+25,"Ismael","Brown",2014-06-27,,49601,"Salary","Nurse",39
+26,"Gladys","Andersen",2009-02-17,,37066,"Salary","Nurse",30
+27,"Robert","Hollowell",2013-06-23,,173703,"Salary","Physician",1
+28,"Gloria","Sands",2004-08-13,,73776,"Salary","Physician Assistant",30
+29,"Philip","Dawson",2006-11-15,14,,"Hourly","Nurse",39
+30,"Kyle","Patterson",2004-12-19,,142756,"Salary","Physician",1
+31,"Jennifer","Delrio",2014-07-20,,144519,"Salary","Physician",1
+32,"Stephanie","Carr",2013-03-17,,69021,"Salary","Nurse",11
+33,"Blanca","McPherson",2011-10-13,,161368,"Salary","Physician",1
+34,"Ronald","Murray",2013-02-28,,55381,"Salary","Nurse",30
+35,"Carole","Goss",2011-01-07,,70312,"Salary","Nurse",31
+36,"Patrick","McDonald",2012-04-06,,171617,"Salary","Physician",1
+37,"Ella","Carter",2009-11-12,,59410,"Salary","Nurse",18
+38,"John","Fishman",2000-06-08,,134110,"Salary","Physician",2
+39,"Corey","Conway",2010-02-22,,133459,"Salary","Physician",1
+40,"Charles","Harlan",2012-06-24,,63426,"Salary","Nurse",13
+41,"Timothy","Norris",2008-12-25,,146786,"Salary","Physician",2
+42,"Marvin","Schimmel",2002-04-12,14,,"Hourly","Nurse",18
+43,"Robert","Rodgers",2014-02-28,,170406,"Salary","Physician",1
+44,"Rosalind","Turner",2006-11-09,16,,"Hourly","Nurse",10
+45,"Mark","Oxendine",2001-07-04,,181126,"Salary","Physician",2
+46,"Dorothy","Massey",2007-06-29,16,,"Hourly","Nurse",33
+47,"Salvatore","Daniel",2011-09-29,14,,"Hourly","Nurse",41
+48,"Mikaela","Cohen",2009-07-17,,42530,"Salary","Nurse",36
+49,"Tiffany","Sutton",2010-07-25,,55709,"Salary","Nurse",39
+50,"Denise","Hipps",2011-04-07,,64178,"Salary","Physician Assistant",33
